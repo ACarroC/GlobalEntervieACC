@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGIdmdM1RAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52554\\source\\repos\\GlobalEntervieACC\\ElevatorSystem_ACC\\ElevatorSystem\\ElevatorSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52554\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\52554\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\52554\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
